@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+npm-debug.*
+.idea
+*.log.*
+*.log
+coverage
+dist
